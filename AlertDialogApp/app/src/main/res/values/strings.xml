@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AlertDialogApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="course_data">
+        <item>Select course</item>
+        <item>Android Development</item>
+        <item>ARM</item>
+        <item>Abmroid</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Web Development</item>
+        <item>Digital Marketing</item>
+        <item>DevOps</item>
+    </string-array>
+</resources>

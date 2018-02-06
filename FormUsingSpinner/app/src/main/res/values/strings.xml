@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FormUsingSpinner</string>
+    <string-array name="statesData">
+        <item>Select state</item>
+        <item>Assam</item>
+        <item>Andhra Pradesh</item>
+        <item>Odisha</item>
+        <item>Delhi</item>
+        <item>Punjab</item>
+        <item>Gujrat</item>
+        <item>Karnataka</item>
+        <item>Haryana</item>
+        <item>Rajasthan</item>
+        <item>Himanchal Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>Jharkhand</item>
+        <item>Chhatisgarh</item>
+        <item>Kerala</item>
+        <item>Tamilnadu</item>
+        <item>Madhya Pradesh</item>
+        <item>West Bangal</item>
+        <item>Bihar</item>
+        <item>Maharashtra</item>
+        <item>Uttar Pradesh</item>
+    </string-array>
+
+    <string-array name="districtData">
+        <item>Select district</item>
+        <item>Almora</item>
+        <item>Bageshwar</item>
+        <item>Chamoli</item>
+        <item>Champawat</item>
+        <item>Dehradun</item>
+        <item>Haridwar</item>
+        <item>Nainital</item>
+        <item>Pauri</item>
+        <item>Pithoragarh</item>
+        <item>Rudraprayag</item>
+        <item>Tehri</item>
+        <item>Udham Singh Nagar</item>
+        <item>Uttarkashi</item>
+    </string-array>
+    <string-array name="country">
+        <item>Indi</item>
+        <item>Bhitn</item>
+    </string-array>
+</resources>

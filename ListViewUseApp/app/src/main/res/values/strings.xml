@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListViewUseApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="hindi_writers">
+        <item>1. Munshi Premchand</item>
+        <item>2. Dharamveer Bharti</item>
+        <item>3. Krishna Sobti</item>
+        <item>4. Bisham Sahni</item>
+        <item>5. Kamaleshwar</item>
+        <item>6. Panishwar Nathu ‘Renu’</item>
+        <item>7. Yashpal</item>
+        <item>8. Sri LalShukla</item>
+        <item>9. Amrita Pritam</item>
+        <item>10.Vishnu Prabhakar</item>
+    </string-array>
+    <string name="munsi_info">Munshi Premchand the author of Godaan is the most celebrated writers, who started writing under the pen name Nawab Rai. Later he was called Munshi Premchand, Munshi, being an honorary prefix. He is called Upanyas Samrat (Emperor among Novelists). Gaban, Nirmala, Shatranj Ke Khiladi, and many other novels written by him, are the most sought after Hindi literature. He has translated many foreign literary works into Hindi.</string>
+    <string name="dharamveer_info">The most famous novel written by Dharmvir Barti is Gunahon Ka Devta, which is an evergreen classic. It is a love story which is relevant, to date. The characters are created with great detail and it has a hypnotizing effect on you. It is worthy to be read and reread over and over again.</string>
+    <string name="krishna_info">Krishna Sobti is the Grande Dame of Hindi literature and she won the Sahithya Academi Award in 1980 for her novel Zindaginama. She dared to experiment new writing techniques and through her judicious use of language she presented an exhilarating picture of women. Her works presented the turmoil in the society and the man-woman relationship that is affected by the declining values. Her most popular novel was Mitro Marjani.</string>
+    <string name="bisham_info">Tamas is one of the famous novels that give you a powerful account of the Partition of India,which was written by Bhisham Sahni. He was well-versed in Hindi, Urdu and Punjabi and hence was able to reflect the feelings of these people in his novel and entered the minds and hearts of the people. His masterpieces include Amritsar Aa Gaye Hain and Chief ki Davat. His accolades include Padma Bhushan in 1998 and Sahithya Academi Fellowship in 2002.</string>
+    <string name="kamaleshwar_info">Kamaleshwar Prasad Saxena was not only a writer in Indian literature, but he is also a noted script writer and critic. He started his literary career in Allahabad. His Hindi novel Kitne Pakistan won him the Sahitya Academi Award in 2003 and it was translated in English as, Partitions. He was awarded Padma Bhushan by the Government of India in 2005. He has written over 300 stories and written scripts and screenplay for over 75 feature films, which includes  Musam, Aandhi, Rang Birangi.</string>
+    <string name="panishwar_info">He was the person, who was responsible for bringing out regional voices into Hindi literature. Maila Aanchal was his first novel. In his novel Khari Boli he used local Hindi,which was a new kind of  experiment in Hindi literature. His short story was filmed, and it resulted in a blockbuster success called Teesri Manzil in 1966.</string>
+    <string name="yashpal_info">Yashpal fought for India’s Freedom from British rule. He was arrested then, at the age of 28 and sentenced to prison for 14 years. His novels revolved around moral values and description of his travel via Eastern Europe. He worked as an editor for Viplav for a number of years. His novel Jhutha Sachhas been the best novel ever. He won the Sahitya Axademi Award for Meri Teri Uski Baat in 1976. Postage stamps were issued by the Government of India to commemorate his centenary.</string>
+    <string name="lalshukla_info">He was a Provincial Civil Service (PCS) Officer of the State Government of Uttar Pradesh and then he became an IAS officer. He is known as a famous Hindi Novelist and his novel Raag Darbari has been translated into English and 15 other Indian Languages. His work dwelt upon the negative aspects of life in a sardonic manner and also portrayed the degrading moral values in Indian Society,Post-Independence.</string>
+    <string name="amrita_info">Amrita Pritam, is an acclaimed writer and poet from Punjab. She is clearly one of the top writers and is the first Punjabi woman novelist and poet. Her Novel Pinjar written in 1950 was made into an award winning movie Pinjar in 2003. The novel was based on the violence against women and the suffering a protagonist has to undergo. She is the first woman to receive Sahitya Academi Award. She received the Padma Sri Award in 1969 and Padma Vibushan in 2004. She participates in social works, actively.</string>
+    <string name="vishnu_info">Vishnu Prabhakar is a Hindi writer whose works were in lines of patriotism and carried messages for Social Upliftment. He won both, the Sahithya Academi Award and Padma Bhushan for his novel Ardhanarishvara, which means the Androgynous God or Shiva. He hails from Uttar Pradesh and is known for his humanitarian values.</string>
+</resources>

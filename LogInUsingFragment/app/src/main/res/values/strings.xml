@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LogInUsingFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="course_name">
+        <item>Select course</item>
+        <item>Advanced Java</item>
+        <item>Angular JS</item>
+        <item>Android Development</item>
+        <item>Digital Marketing</item>
+        <item>DevOps</item>
+        <item>Embroid</item>
+        <item>Software Testing</item>
+        <item>Web Development</item>
+    </string-array>
+</resources>

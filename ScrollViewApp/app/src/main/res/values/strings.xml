@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ScrollViewApp</string>
+    <string-array name="course">
+        <item>Select course</item>
+        <item>Android Development</item>
+        <item>Angular JS</item>
+        <item>Advance Java</item>
+        <item>C Programming</item>
+        <item>C++</item>
+        <item>Digital Marketing</item>
+        <item>Embroid</item>
+        <item>Software Testing</item>
+        <item>Web Designing</item>
+        <item>Web Development</item>
+    </string-array>
+    <string-array name="qualification">
+        <item>Select qualification</item>
+        <item>Under High school</item>
+        <item>High school</item>
+        <item>Intermediate</item>
+        <item>Graduation</item>
+        <item>Post Graduation</item>
+    </string-array>
+    <string-array name="graduation">
+        <item>Select stream</item>
+        <item>BA</item>
+        <item>B com</item>
+        <item>Bsc</item>
+        <item>BCA</item>
+        <item>Btech</item>
+    </string-array>
+    <string-array name="post_gradudation">
+        <item>Select stream</item>
+        <item>MA</item>
+        <item>Mcom</item>
+        <item>Msc</item>
+        <item>MCA</item>
+        <item>Mtech</item>
+    </string-array>
+</resources>

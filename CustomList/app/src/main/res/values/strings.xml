@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomList</string>
+    <string-array name="city">
+        <item>Delhi</item>
+        <item>Hyderabad</item>
+        <item>Pune</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAutoCompleteTextView</string>
+    <string-array name="nme">
+        <item>Abhay</item>
+        <item>Arjun</item>
+        <item>Anuj</item>
+        <item>Babu</item>
+        <item>Balraj</item>
+        <item>Chintu</item>
+        <item>Chitra</item>
+    </string-array>
+</resources>

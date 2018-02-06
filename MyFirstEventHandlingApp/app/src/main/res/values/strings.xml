@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="user_email_hint">Enter user name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_pass">Forgot password</string>
+    <string name="not_user_sign_up">Not a user Register now</string>
+</resources>

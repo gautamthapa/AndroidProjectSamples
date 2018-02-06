@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CustomList1</string>
+    <string-array name="title">
+        <item>Gautam</item>
+        <item>Gautam</item>
+        <item>Gautam</item>
+        <item>Gautam</item>
+        <item>Gautam</item>
+        <item>Gautam</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Imstar</item>
+        <item>Imstar</item>
+        <item>Imstar</item>
+        <item>Imstar</item>
+        <item>Imstar</item>
+        <item>Imstar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CourseRegisApp</string>
+
+    <string-array name="courseName">
+        <item>Select course</item>
+        <item>Android Development</item>
+        <item>Advanced Java</item>
+        <item>Digital Marketing</item>
+        <item>Software Testing</item>
+        <item>Web Designing</item>
+        <item>Web Development</item>
+    </string-array>
+</resources>

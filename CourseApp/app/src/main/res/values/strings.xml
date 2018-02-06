@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+    <string-array name="course_name">
+        <item>Select course</item>
+        <item>Java</item>
+        <item>Android</item>
+        <item>Web Development</item>
+    </string-array>
+</resources>

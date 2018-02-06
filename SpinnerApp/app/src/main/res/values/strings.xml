@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string-array name="dt">
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Thailand</item>
+        <item>Japan</item>
+    </string-array>
+    <string-array name="dt1">
+        <item>Select course</item>
+        <item>BTech</item>
+        <item>MTech</item>
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>Bsc</item>
+    </string-array>
+    <string-array name="BTech">
+        <item>Mechnical</item>
+        <item>Computer science</item>
+        <item>IT</item>
+        <item>Civil</item>
+        <item>Electrical</item>
+    </string-array>
+</resources>
