@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:padding="20dp"
+  android:orientation="vertical"
+  tools:context="com.strontech.imgautam.patanjalistor.AddProductFragment">
+
+  <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Product ID"
+    android:textColor="@android:color/background_dark"
+    android:textSize="25sp"/>
+
+  <android.support.design.widget.TextInputLayout
+    android:id="@+id/textInputLayoutProductName"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp">
+
+    <android.support.design.widget.TextInputEditText
+      android:id="@+id/textInputTextProductName"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Product name"/>
+  </android.support.design.widget.TextInputLayout>
+  <android.support.design.widget.TextInputLayout
+    android:id="@+id/textInputLayoutProductPrice"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp">
+
+    <android.support.design.widget.TextInputEditText
+      android:id="@+id/textInputTextProductPrice"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Price"/>
+  </android.support.design.widget.TextInputLayout>
+  <android.support.design.widget.TextInputLayout
+    android:id="@+id/textInputLayoutProductQuantity"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp">
+
+    <android.support.design.widget.TextInputEditText
+      android:id="@+id/textInputTextProductQuantity"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Quantity"/>
+  </android.support.design.widget.TextInputLayout>
+  <android.support.design.widget.TextInputLayout
+    android:id="@+id/textInputLayoutProductDesc"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp">
+
+    <android.support.design.widget.TextInputEditText
+      android:id="@+id/textInputTextProductDesc"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Description"/>
+  </android.support.design.widget.TextInputLayout>
+  <android.support.v7.widget.CardView
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="25dp">
+    <Button
+      android:layout_width="match_parent"
+      android:layout_height="60dp"
+      android:background="#ff8000"
+      android:text="Add"
+      android:textColor="@android:color/white"
+      android:textSize="20sp"/>
+  </android.support.v7.widget.CardView>
+</LinearLayout>

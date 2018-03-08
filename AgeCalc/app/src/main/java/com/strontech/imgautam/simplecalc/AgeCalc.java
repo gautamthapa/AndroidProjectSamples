@@ -33,9 +33,6 @@ public class AgeCalc extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                //int mDay=calendar.get(Calendar.DAY_OF_MONTH);
-                //String str=String.valueOf(mDay);
-                //Toast.makeText(AgeCalc.this, str, Toast.LENGTH_SHORT).show();
                 try {
                     String str1=edt1.getText().toString();
                     String str2 = edt2.getText().toString();

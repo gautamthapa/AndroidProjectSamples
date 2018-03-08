@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
     @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
+        public boolean onOptionsItemSelected(MenuItem item) {
 
         int id=item.getItemId();
         FragmentManager fm=getSupportFragmentManager();

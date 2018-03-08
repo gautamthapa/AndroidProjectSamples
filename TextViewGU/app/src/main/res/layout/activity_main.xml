@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.strontech.imgautam.textviewgu.MainActivity">
+
+    <TextView
+        android:background="#AA00FF"
+        android:textColor="#FFFFFF"
+        android:id="@+id/display4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="112sp"
+        android:textSize="112sp" />
+    <TextView
+        android:id="@+id/display3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 56sp"
+        android:textSize="56sp" />
+    <TextView
+        android:id="@+id/display2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 45sp"
+        android:textSize="45sp" />
+    <TextView
+        android:id="@+id/display1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 34sp"
+        android:textSize="34sp" />
+    <TextView
+        android:id="@+id/Headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 24sp"
+        android:textSize="24sp" />
+    <TextView
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium 21sp"
+        android:textSize="21sp" />
+    <TextView
+        android:id="@+id/Subheading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 17sp(Device), Regular 16sp(Desktop)"
+        android:textSize="17sp" />
+    <TextView
+        android:id="@+id/Body1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium 15sp(Device), Medium 14sp(Desktop)"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/Body2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 15sp(Device), Regular 15sp(Desktop)"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular 13sp"
+        android:textSize="13sp" />
+    <TextView
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:id="@+id/Botton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium 15sp"
+        android:textSize="15sp" />
+
+</LinearLayout>

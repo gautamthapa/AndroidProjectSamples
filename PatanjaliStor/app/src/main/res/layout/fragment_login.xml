@@ -1,0 +1,96 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/background"
+    tools:context="com.strontech.imgautam.patanjalistor.LoginFragment">
+
+
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:id="@+id/imageView"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/patanjali_logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:text="Store"
+            android:textColor="#942C2B"
+            android:textSize="30sp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edtUsername"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_person_black_24dp"
+                android:hint="Username"
+                android:textSize="18sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            app:passwordToggleEnabled="true"
+            app:passwordToggleTint="@color/colorAccent"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edtPassword"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_lock_black_24dp"
+                android:hint="Password"
+
+                android:textSize="18sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:textColor="#942C2B"
+            android:background="@android:color/transparent"
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:text="Login"
+            android:textAllCaps="false"
+            android:textSize="18sp" />
+
+        <Button
+            android:textColor="#942C2B"
+            android:background="@android:color/transparent"
+            android:id="@+id/btn_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="Not registered Sign up"
+            android:textAllCaps="false"
+            android:textSize="18sp" />
+    </LinearLayout>
+</LinearLayout>
